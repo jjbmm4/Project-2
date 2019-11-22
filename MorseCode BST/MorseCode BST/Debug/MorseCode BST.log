@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jjbar\source\repos\MorseCode BST\MorseCode BST\Source.cpp(124,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\jjbar\source\repos\MorseCode BST\MorseCode BST\Source.cpp(140,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\jjbar\source\repos\MorseCode BST\MorseCode BST\Source.cpp(160,22): warning C4018:  '<': signed/unsigned mismatch
+  MorseCode BST.vcxproj -> C:\Users\jjbar\source\repos\MorseCode BST\Debug\MorseCode BST.exe
